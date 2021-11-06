@@ -1,1 +1,1 @@
-# -CPP_PJ-Snake_Game
+# C++ 프로젝트 [ Sanke Game ]
