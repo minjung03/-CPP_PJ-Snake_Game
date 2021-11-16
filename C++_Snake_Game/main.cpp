@@ -207,7 +207,6 @@ void MapDraw() {
     cout << "+20  │   5↑";
 
 }
-
 // 뱀 움직이기
 void move_snake(Snake* snake) {
 
